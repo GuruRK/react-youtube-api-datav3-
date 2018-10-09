@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.search-bar {
+  width : 90%
+}
+
+.videolist{
+  max-width: 70%;
+  -ms-content-zoom-chaining: inherit
+}
+
+.video-detail{
+  margin-top : 10px;
+  padding: 10px;
+  border : 1px solid #ddd;
+  border-radius: 5px
+}
+
+.videolistitem{
+  cursor: pointer;
+}
+
+.videolistitem :hover {
+  background-color: rgb(160, 149, 149);
+}
